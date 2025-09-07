@@ -1,9 +1,9 @@
-[07:52:16] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[07:52:16] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) for Minecraft 1.21.7
-[07:52:17] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[07:52:17] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[07:52:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[07:52:22] [ServerMain/ERROR]: Failed to start the minecraft server
+[07:53:10] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[07:53:10] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) for Minecraft 1.21.7
+[07:53:10] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[07:53:10] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[07:53:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:53:15] [ServerMain/ERROR]: Failed to start the minecraft server
 net.minecraft.util.DirectoryLock$LockException: /workspaces/Minecraft/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
 	at net.minecraft.util.DirectoryLock$LockException.alreadyLocked(DirectoryLock.java:100) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
 	at net.minecraft.util.DirectoryLock.create(DirectoryLock.java:30) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
