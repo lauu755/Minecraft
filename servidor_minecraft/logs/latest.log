@@ -1,0 +1,75 @@
+[07:32:17] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[07:32:17] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) for Minecraft 1.21.7
+[07:32:17] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[07:32:17] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[07:32:18] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Remapping server...
+[07:32:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:32:25] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[07:32:25] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[07:32:26] [ServerMain/INFO]: No existing world data, creating new world
+[07:32:27] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Done remapping server in 9124ms.
+[07:32:28] [ServerMain/INFO]: Loaded 1407 recipes
+[07:32:28] [ServerMain/INFO]: Loaded 1520 advancements
+[07:32:28] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[07:32:28] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 476.0ms
+[07:32:28] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[07:32:28] [Server thread/INFO]: Loading properties
+[07:32:28] [Server thread/INFO]: This server is running Paper version 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
+[07:32:28] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[07:32:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:32:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:32:29] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[07:32:29] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[07:32:30] [Server thread/INFO]: Default game type: SURVIVAL
+[07:32:30] [Server thread/INFO]: Generating keypair
+[07:32:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:32:30] [Server thread/INFO]: Using epoll channel type
+[07:32:30] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[07:32:30] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[07:32:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:32:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:32:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:32:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:32:30] [Server thread/INFO]: Preparing level "world"
+[07:32:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:32:40] [Server thread/INFO]: Preparing spawn area: 2%
+[07:32:40] [Server thread/INFO]: Preparing spawn area: 2%
+[07:32:41] [Server thread/INFO]: Preparing spawn area: 2%
+[07:32:41] [Server thread/INFO]: Preparing spawn area: 2%
+[07:32:42] [Server thread/INFO]: Preparing spawn area: 14%
+[07:32:42] [Server thread/INFO]: Preparing spawn area: 18%
+[07:32:43] [Server thread/INFO]: Preparing spawn area: 18%
+[07:32:43] [Server thread/INFO]: Preparing spawn area: 51%
+[07:32:44] [Server thread/INFO]: Preparing spawn area: 51%
+[07:32:44] [Server thread/INFO]: Preparing spawn area: 51%
+[07:32:45] [Server thread/INFO]: Preparing spawn area: 65%
+[07:32:45] [Server thread/INFO]: Time elapsed: 5329 ms
+[07:32:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[07:32:45] [Server thread/INFO]: Preparing spawn area: 2%
+[07:32:46] [Server thread/INFO]: Preparing spawn area: 6%
+[07:32:46] [Server thread/INFO]: Preparing spawn area: 18%
+[07:32:47] [Server thread/INFO]: Preparing spawn area: 61%
+[07:32:47] [Server thread/INFO]: Time elapsed: 1746 ms
+[07:32:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[07:32:47] [Server thread/INFO]: Preparing spawn area: 2%
+[07:32:47] [Server thread/INFO]: Time elapsed: 475 ms
+[07:32:48] [Server thread/INFO]: [spark] Starting background profiler...
+[07:32:48] [Server thread/INFO]: Done preparing level "world" (18.253s)
+[07:32:48] [Server thread/INFO]: Running delayed init tasks
+[07:32:48] [Server thread/INFO]: Done (32.024s)! For help, type "help"
+[07:32:48] [Server thread/INFO]: *************************************************************************************
+[07:32:48] [Server thread/INFO]: This is the first time you're starting this server.
+[07:32:48] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[07:32:48] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[07:32:48] [Server thread/INFO]: *************************************************************************************
+[07:37:57] [User Authenticator #0/INFO]: UUID of player Veaixq_ is 78581146-c1e0-3875-b660-e6d73188cdce
+[07:38:00] [Server thread/INFO]: Veaixq_ joined the game
+[07:38:00] [Server thread/INFO]: Veaixq_[/127.10.127.218:39461] logged in with entity id 90 at ([world]-25.5, 65.0, 19.5)
+[07:38:17] [Server thread/INFO]: You whisper to Veaixq_: Hola
+[07:38:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+hola<--[HERE]
+[07:38:32] [Async Chat Thread - #1/INFO]: [Not Secure] <Veaixq_> oa
+[07:38:45] [Server thread/INFO]: You whisper to Veaixq_: PRUEBA,
+[07:41:27] [User Authenticator #1/INFO]: UUID of player VonVoidN1 is 2a3f51e0-4924-3ee9-93e8-63c44f1b0013
+[07:41:30] [Server thread/INFO]: VonVoidN1 joined the game
+[07:41:30] [Server thread/INFO]: VonVoidN1[/127.1.253.48:50927] logged in with entity id 1087 at ([world]-16.5, 67.0, 10.5)
