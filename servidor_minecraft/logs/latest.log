@@ -49,3 +49,7 @@
 [23:18:48] [Server thread/INFO]: VonVoidN1 joined the game
 [23:18:48] [Server thread/INFO]: VonVoidN1[/127.1.253.48:56445] logged in with entity id 2401 at ([world]445.7567666845119, 119.0, 735.0866311586211)
 [23:19:56] [Async Chat Thread - #1/INFO]: [Not Secure] <Veaixq_> -1634 1107
+[23:25:14] [Server thread/INFO]: Made VonVoidN1 a server operator
+[23:25:19] [Server thread/INFO]: [VonVoidN1: Set own game mode to Creative Mode]
+[23:25:48] [Server thread/INFO]: [VonVoidN1: Set own game mode to Survival Mode]
+[23:26:09] [Server thread/INFO]: Made VonVoidN1 no longer a server operator
