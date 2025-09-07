@@ -1,16 +1,47 @@
-[08:26:55] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[08:26:55] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) for Minecraft 1.21.7
-[08:26:56] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[08:26:56] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[08:27:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[08:27:01] [ServerMain/ERROR]: Failed to start the minecraft server
-net.minecraft.util.DirectoryLock$LockException: /workspaces/Minecraft/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
-	at net.minecraft.util.DirectoryLock$LockException.alreadyLocked(DirectoryLock.java:100) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
-	at net.minecraft.util.DirectoryLock.create(DirectoryLock.java:30) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
-	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:436) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
-	at net.minecraft.world.level.storage.LevelStorageSource.validateAndCreateAccess(LevelStorageSource.java:351) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
-	at net.minecraft.server.Main.main(Main.java:185) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
-	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
-	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[paper-1.21.7.jar:1.21.7-17-b4466ec]
-	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:05:43] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[18:05:43] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) for Minecraft 1.21.7
+[18:05:43] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[18:05:43] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[18:05:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:05:50] [ServerMain/INFO]: Loaded 1407 recipes
+[18:05:50] [ServerMain/INFO]: Loaded 1520 advancements
+[18:05:50] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[18:05:51] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 374.2ms
+[18:05:51] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[18:05:51] [Server thread/INFO]: Loading properties
+[18:05:51] [Server thread/INFO]: This server is running Paper version 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
+[18:05:51] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[18:05:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:05:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:05:51] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[18:05:51] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[18:05:52] [Server thread/INFO]: Default game type: SURVIVAL
+[18:05:52] [Server thread/INFO]: Generating keypair
+[18:05:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:05:53] [Server thread/INFO]: Using epoll channel type
+[18:05:53] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:05:53] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[18:05:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:05:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:05:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:05:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:05:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:05:53] [Server thread/INFO]: Preparing level "world"
+[18:05:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:05:54] [Server thread/INFO]: Preparing spawn area: 0%
+[18:05:54] [Server thread/INFO]: Preparing spawn area: 2%
+[18:05:55] [Server thread/INFO]: Preparing spawn area: 6%
+[18:05:55] [Server thread/INFO]: Time elapsed: 1294 ms
+[18:05:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:05:55] [Server thread/INFO]: Preparing spawn area: 0%
+[18:05:55] [Server thread/INFO]: Time elapsed: 274 ms
+[18:05:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:05:55] [Server thread/INFO]: Preparing spawn area: 0%
+[18:05:55] [Server thread/INFO]: Time elapsed: 120 ms
+[18:05:56] [Server thread/INFO]: [spark] Starting background profiler...
+[18:05:56] [Server thread/INFO]: Done preparing level "world" (3.437s)
+[18:05:56] [Server thread/INFO]: Running delayed init tasks
+[18:05:56] [Server thread/INFO]: Done (15.347s)! For help, type "help"
+[18:12:06] [User Authenticator #0/INFO]: UUID of player VonVoidN1 is 2a3f51e0-4924-3ee9-93e8-63c44f1b0013
+[18:12:10] [Server thread/INFO]: VonVoidN1 joined the game
+[18:12:10] [Server thread/INFO]: VonVoidN1[/127.1.253.48:36805] logged in with entity id 31 at ([world]-34.69999998807907, 3.0, 585.3000000119209)
