@@ -64,3 +64,9 @@
 [23:50:41] [User Authenticator #2/INFO]: UUID of player VonVoidN1 is 2a3f51e0-4924-3ee9-93e8-63c44f1b0013
 [23:50:45] [Server thread/INFO]: VonVoidN1 joined the game
 [23:50:45] [Server thread/INFO]: VonVoidN1[/127.1.253.48:50645] logged in with entity id 13256 at ([world]-1521.9534972796946, 15.0, 1110.699999988079)
+[23:55:55] [Netty Epoll Server IO #3/INFO]: Disconnecting VonVoidN1 for sending keepalive response (5072688) out-of-order!
+[23:55:55] [Server thread/INFO]: VonVoidN1 lost connection: Timed out
+[23:55:55] [Server thread/INFO]: VonVoidN1 left the game
+[23:56:15] [User Authenticator #3/INFO]: UUID of player VonVoidN1 is 2a3f51e0-4924-3ee9-93e8-63c44f1b0013
+[23:56:16] [Server thread/INFO]: VonVoidN1 joined the game
+[23:56:16] [Server thread/INFO]: VonVoidN1[/127.1.253.48:46643] logged in with entity id 14973 at ([world]-1570.844630264231, 63.0, 774.1609452871731)
