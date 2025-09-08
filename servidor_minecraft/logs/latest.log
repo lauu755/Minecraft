@@ -5,3 +5,11 @@
 [00:14:15] [Server thread/INFO]: VonVoidN1 was kicked due to keepalive timeout!
 [00:14:15] [Server thread/INFO]: VonVoidN1 lost connection: Timed out
 [00:14:15] [Server thread/INFO]: VonVoidN1 left the game
+[00:14:22] [User Authenticator #4/INFO]: UUID of player VonVoidN1 is 2a3f51e0-4924-3ee9-93e8-63c44f1b0013
+[00:14:23] [Server thread/INFO]: VonVoidN1 joined the game
+[00:14:23] [Server thread/INFO]: VonVoidN1[/127.1.253.48:57001] logged in with entity id 18525 at ([world]-1559.7564344471275, 63.0, 765.201752181369)
+[00:17:30] [Server thread/INFO]: VonVoidN1 lost connection: Disconnected
+[00:17:30] [Server thread/INFO]: VonVoidN1 left the game
+[00:17:40] [User Authenticator #5/INFO]: UUID of player VonVoidN1 is 2a3f51e0-4924-3ee9-93e8-63c44f1b0013
+[00:17:41] [Server thread/INFO]: VonVoidN1 joined the game
+[00:17:41] [Server thread/INFO]: VonVoidN1[/127.1.253.48:43813] logged in with entity id 19074 at ([world]-1559.4332392425215, 62.9375, 779.4006121850994)
